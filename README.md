@@ -2,7 +2,7 @@
 
 The unfinished project.   
 
-Problems I have faced are versioning Jupyter notebooks and unsupported CUDA by the host device, therefore:  
+Problems I have faced are versioning Jupyter notebooks and unsupported CUDA by the host device (and some unexpected issues specific for Windows that were mostly resolved), therefore:  
 
 The Jupyter notebook similar_flowers.ipynb (in the first initial commit) shows an example of finding similar images with a pretrained model.  
 
